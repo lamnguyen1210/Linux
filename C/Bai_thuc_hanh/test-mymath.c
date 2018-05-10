@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "mymath.h"
 int main()
 {
 	printf("Giai thua cua 10 la:%d\n",giaithua(10) );
